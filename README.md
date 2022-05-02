@@ -165,6 +165,8 @@ sys.excepthook is missing
 lost sys.stderr
 ```
 
+**Hint**: [Here](https://docs.google.com/presentation/d/1fMRK9q8kwFetMDZPQaZFmzvQeFDklqAXN8QJOwidEHg/edit?usp=sharing) are the project section slides from previous year -- you may find them usefull! 
+
 ## Submission and Grading
 
 ### What to submit
